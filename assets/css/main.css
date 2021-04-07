@@ -500,7 +500,8 @@ input, select, textarea {
 /* Type */
 
 	body, input, textarea, select {
-		font-family: "Source Sans Pro", "sans-serif";
+		/* font-family: "Source Sans Pro", "sans-serif"; */
+		font-family: 'Lusitana', serif;
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
@@ -2244,7 +2245,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("https://courtneys-portfolio.s3.us-east-2.amazonaws.com/paul-gilmore-4i97n6L0XuY-unsplash.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2254,7 +2255,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background: url("images/overlay.png"), url("https://courtneys-portfolio.s3.us-east-2.amazonaws.com/trevor-vannoy-4TW-zD_6Hfw-unsplash.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2263,7 +2264,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background: url("images/overlay.png"), url("https://courtneys-portfolio.s3.us-east-2.amazonaws.com/court_in_flowers.JPG");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
