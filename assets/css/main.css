@@ -2252,7 +2252,7 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 	}
 
-	img.mainphoto {
+	img.headshot {
 		height: 15rem;
 		border-radius: 50%;
 		border: 2px solid white;
