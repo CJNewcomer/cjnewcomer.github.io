@@ -2262,16 +2262,16 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("https://courtneys-portfolio.s3.us-east-2.amazonaws.com/trevor-vannoy-4TW-zD_6Hfw-unsplash.jpg");
+		background: url("images/overlay.png"), url("https://courtneys-portfolio.s3.us-east-2.amazonaws.com/court_in_flowers.JPG");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
-
-/* Two */
-
+	
+	/* Two */
+	
 	#two {
-		background: url("images/overlay.png"), url("https://courtneys-portfolio.s3.us-east-2.amazonaws.com/court_in_flowers.JPG");
+		background: url("images/overlay.png"), url("https://courtneys-portfolio.s3.us-east-2.amazonaws.com/trevor-vannoy-4TW-zD_6Hfw-unsplash.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
