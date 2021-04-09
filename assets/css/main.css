@@ -1930,11 +1930,6 @@ input, select, textarea {
 		overflow-x: hidden;
 	}
 
-	.mainphoto {
-		height: 10rem;
-		border-radius: 40%;
-	}
-
 		.main > .content {
 			width: 45em;
 			max-width: calc(100% - 4em);
@@ -2255,6 +2250,12 @@ input, select, textarea {
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
+	}
+
+	img.mainphoto {
+		height: 15rem;
+		border-radius: 50%;
+		border: 2px solid white;
 	}
 
 /* One */
