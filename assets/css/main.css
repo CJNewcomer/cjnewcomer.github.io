@@ -1930,6 +1930,11 @@ input, select, textarea {
 		overflow-x: hidden;
 	}
 
+	.mainphoto {
+		height: 10rem;
+		border-radius: 40%;
+	}
+
 		.main > .content {
 			width: 45em;
 			max-width: calc(100% - 4em);
