@@ -2252,6 +2252,13 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 	}
 
+	#headshot {
+		height: 13rem;
+		width: 11rem;
+		border-radius: 50%;
+		border: whitesmoke 2px solid;
+	}
+
 /* One */
 
 	#one {
