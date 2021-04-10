@@ -2302,7 +2302,7 @@ input, select, textarea {
 		}
 	.skill_icons {
 		max-width: 1.5em;
-		margin: .5rem;
+		margin: 1.5rem;
 		display: flex;
 		justify-content: center;
 		font-size: 4rem;
