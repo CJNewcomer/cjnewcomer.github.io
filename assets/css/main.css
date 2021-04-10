@@ -2276,6 +2276,38 @@ input, select, textarea {
 		background-position: top left, center center;
 	}
 
+	.skill_icons_container {
+			height: 400px;
+			display: grid;
+			grid-template-columns: repeat(5, 1fr);
+			grid-template-rows: repeat(3, 1fr);
+		}
+
+		@media (max-width: 560px) {
+			.skill_icons_container {
+				height: fit-content;
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				grid-template-rows: repeat(3, 1fr);
+			}
+		}
+
+		@media (max-width: 460px) {
+			.skill_icons_container {
+				height: fit-content;
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				/* grid-template-rows: repeat(3, 1fr); */
+			}
+		}
+	
+	.skill_icons {
+			margin: 2px;
+			display: flex;
+			justify-content: center;
+			font-size: 100px;
+		}
+
 /* Contact */
 
 	#contact {
