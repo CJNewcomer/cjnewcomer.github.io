@@ -2277,7 +2277,7 @@ input, select, textarea {
 	}
 
 	.skill_icons_container {
-			height: 350px;
+			height: 35rem;
 			display: grid;
 			grid-template-columns: repeat(5, 1fr);
 			grid-template-rows: repeat(3, 1fr);
