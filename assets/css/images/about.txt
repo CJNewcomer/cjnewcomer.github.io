@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Lusitana
+- Font Author: Copyright (c) 2011 by Ana Paula Megda (www.anamegda.com|anapbm@gmail.com), with Reserved Font Name Lusitana.
+- Font Source: http://fonts.gstatic.com/s/lusitana/v8/CSR84z9ShvucWzsMKxhaRuMiSct_.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
