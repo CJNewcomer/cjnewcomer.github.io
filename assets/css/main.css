@@ -2300,21 +2300,7 @@ input, select, textarea {
 				/* grid-template-rows: repeat(3, 1fr); */
 			}
 		}
-	.devicon-javascript-plain,
-	.devicon-python-plain,
-	.devicon-react-original,
-	.devicon-redux-original,
-	.devicon-express-original,
-	.devicon-flask-original,
-	.devicon-postgresql-plain,
-	.devicon-sqlalchemy-original-wordmark,
-	.devicon-sequelize-plain,
-	.devicon-heroku-line,
-	.devicon-git-plain,
-	.devicon-amazonwebservices-plain,
-	.devicon-nodejs-plain,
-	.devicon-html5-plain,
-	.devicon-css3-plain {
+	.skill_icons {
 		max-width: 1.5em;
 		margin: .5rem;
 		display: flex;
