@@ -2316,15 +2316,11 @@ input, select, textarea {
 	.devicon-html5-plain,
 	.devicon-css3-plain {
 		max-width: 2em;
+		margin: 2px;
+		display: flex;
+		justify-content: center;
+		font-size: 100px;
 	}
-
-
-	.skill_icons {
-			margin: 2px;
-			display: flex;
-			justify-content: center;
-			font-size: 100px;
-		}
 
 /* Contact */
 
