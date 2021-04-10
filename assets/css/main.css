@@ -2307,7 +2307,7 @@ input, select, textarea {
 	.devicon-express-original,
 	.devicon-flask-original,
 	.devicon-postgresql-plain,
-	.devicon-sqlalchemy-original,
+	.devicon-sqlalchemy-original-wordmark,
 	.devicon-sequelize-plain,
 	.devicon-heroku-line,
 	.devicon-git-plain,
@@ -2316,7 +2316,7 @@ input, select, textarea {
 	.devicon-html5-plain,
 	.devicon-css3-plain {
 		max-width: 1.5em;
-		margin: 1rem;
+		margin: .5rem;
 		display: flex;
 		justify-content: center;
 		font-size: 3.5rem;
