@@ -500,7 +500,6 @@ input, select, textarea {
 /* Type */
 
 	body, input, textarea, select {
-		/* font-family: "Source Sans Pro", "sans-serif"; */
 		font-family: 'Lusitana', serif;
 		font-weight: 300;
 		font-size: 18pt;
