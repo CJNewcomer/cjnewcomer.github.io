@@ -2315,7 +2315,7 @@ input, select, textarea {
 	.devicon-nodejs-plain,
 	.devicon-html5-plain,
 	.devicon-css3-plain {
-		max-width: 2em;
+		max-width: 1.5em;
 		margin: 2px;
 		display: flex;
 		justify-content: center;
