@@ -2277,7 +2277,7 @@ input, select, textarea {
 	}
 
 	.skill_icons_container {
-			height: 400px;
+			height: 350px;
 			display: grid;
 			grid-template-columns: repeat(5, 1fr);
 			grid-template-rows: repeat(3, 1fr);
@@ -2300,7 +2300,25 @@ input, select, textarea {
 				/* grid-template-rows: repeat(3, 1fr); */
 			}
 		}
-	
+	.devicon-javascript-plain,
+	.devicon-python-plain,
+	.devicon-react-original,
+	.devicon-redux-original,
+	.devicon-express-original,
+	.devicon-flask-original,
+	.devicon-postgresql-plain,
+	.devicon-sqlalchemy-original,
+	.devicon-sequelize-plain,
+	.devicon-heroku-line,
+	.devicon-git-plain,
+	.devicon-amazonwebservices-plain,
+	.devicon-nodejs-plain,
+	.devicon-html5-plain,
+	.devicon-css3-plain {
+		max-width: 2em;
+	}
+
+
 	.skill_icons {
 			margin: 2px;
 			display: flex;
