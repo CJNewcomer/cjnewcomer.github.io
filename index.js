@@ -21,13 +21,23 @@ document.addEventListener("DOMContentLoaded", () => {
             created: dateCreated,
         };
 
-        await fetch("https://sheet.best/api/sheets/fe924d9e-7277-434d-9872-49c4e11f244f",
+        fetch(
+            "https://sheet.best/api/sheets/fe924d9e-7277-434d-9872-49c4e11f244f",
         {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(data),
+        })
+            .then((r) => r.json())
+            .then((data) => {
+            // The response comes here
+            console.log(data);
+        })
+            .catch((error) => {
+            // Errors are reported there
+            console.log(error);
         });
 
-        window.location = "http://cjnewcomer.github.io";
+        window.location = "https://cjnewcomer.github.io";
     });
 });
